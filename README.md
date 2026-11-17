@@ -115,6 +115,18 @@ open_to:    consulting & OSS
 ![Inertia](https://img.shields.io/badge/Inertia-1A1A2E?style=flat-square&logo=inertia&logoColor=white)
 ![Maizzle](https://img.shields.io/badge/Maizzle-1A1A2E?style=flat-square&logo=maildotru&logoColor=white)
 
+<br/>
+
+**🤖 AI toolkit**
+
+![Claude](https://img.shields.io/badge/Claude-1A1A2E?style=flat-square&logo=claude&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-1A1A2E?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-1A1A2E?style=flat-square&logo=googlegemini&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-1A1A2E?style=flat-square&logo=ollama&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-1A1A2E?style=flat-square&logo=modelcontextprotocol&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-1A1A2E?style=flat-square&logo=huggingface&logoColor=white)
+![Laravel Boost](https://img.shields.io/badge/Laravel%20Boost-1A1A2E?style=flat-square&logo=laravel&logoColor=white)
+
 </div>
 
 ---
@@ -130,6 +142,34 @@ open_to:    consulting & OSS
 | ⚡ **Performance Engineering** | Core Web Vitals and INP, performance budgets in CI, and replacing JavaScript with modern CSS |
 | 🤖 **AI in the Workflow** | Practical AI — coding agents, LLM evals, RAG, and making sites readable to AI agents |
 | 👥 **Team Leadership** | Code reviews that teach, sensible Git workflows, and mentoring engineers |
+
+---
+
+<!-- ============================== AI ============================== -->
+## 🤖 AI in My Everyday Workflow
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧑‍💻 How I use it
+- 🤝 **AI pair programming** — coding agents for refactors, tests and code reviews
+- 🔌 **MCP servers** that give agents real Laravel app context
+- 🔍 **Codebase Q&A** — onboarding faster on legacy projects
+- 📝 **Docs & content** — drafting specs, READMEs and blog outlines
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ How I keep it sane
+- 🏠 **Local-first models** with Ollama for private data
+- 🔒 **No secrets in prompts** — that's why I built [SafePaste](https://github.com/theunwindfront/safepaste-ai-extension)
+- 🧪 **Evals over vibes** — LLM eval suites before shipping AI features
+- 👀 **Human review** on every AI-written line that ships
+
+</td>
+</tr>
+</table>
 
 ---
 
