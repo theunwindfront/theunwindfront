@@ -178,9 +178,9 @@ open_to:    consulting & OSS
 
 <div align="center">
 
-[![tailwindcss-fluid-scale](https://github-readme-stats.vercel.app/api/pin/?username=theunwindfront&repo=tailwindcss-fluid-scale&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=8F8FEF&icon_color=8F8FEF)](https://github.com/theunwindfront/tailwindcss-fluid-scale)
-[![safepaste-ai-extension](https://github-readme-stats.vercel.app/api/pin/?username=theunwindfront&repo=safepaste-ai-extension&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=8F8FEF&icon_color=8F8FEF)](https://github.com/theunwindfront/safepaste-ai-extension)
-[![laravel-blade-variants](https://github-readme-stats.vercel.app/api/pin/?username=theunwindfront&repo=laravel-blade-variants&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=8F8FEF&icon_color=8F8FEF)](https://github.com/theunwindfront/laravel-blade-variants)
+[![tailwindcss-fluid-scale](https://github-stats-extended.vercel.app/api/pin/?username=theunwindfront&repo=tailwindcss-fluid-scale&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=8F8FEF&icon_color=8F8FEF)](https://github.com/theunwindfront/tailwindcss-fluid-scale)
+[![safepaste-ai-extension](https://github-stats-extended.vercel.app/api/pin/?username=theunwindfront&repo=safepaste-ai-extension&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=8F8FEF&icon_color=8F8FEF)](https://github.com/theunwindfront/safepaste-ai-extension)
+[![laravel-blade-variants](https://github-stats-extended.vercel.app/api/pin/?username=theunwindfront&repo=laravel-blade-variants&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=8F8FEF&icon_color=8F8FEF)](https://github.com/theunwindfront/laravel-blade-variants)
 
 </div>
 
@@ -272,15 +272,15 @@ open_to:    consulting & OSS
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=theunwindfront&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=8F8FEF&icon_color=8F8FEF" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theunwindfront&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=8F8FEF" alt="Top languages" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=theunwindfront&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=8F8FEF&icon_color=8F8FEF" alt="GitHub stats" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=theunwindfront&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=8F8FEF" alt="Top languages" />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=theunwindfront&theme=github-dark-blue&hide_border=true&background=0D1117&ring=8F8FEF&fire=8F8FEF&currStreakLabel=8F8FEF)](https://sagarpansuriya.in)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theunwindfront/theunwindfront/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/theunwindfront/theunwindfront/output/github-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/theunwindfront/theunwindfront/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theunwindfront/theunwindfront.github.io/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/theunwindfront/theunwindfront.github.io/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/theunwindfront/theunwindfront.github.io/output/github-snake.svg" />
 </picture>
 
 </div>
