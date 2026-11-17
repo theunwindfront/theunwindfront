@@ -77,6 +77,7 @@ open_to:    consulting & OSS
 <td width="50%" valign="top">
 
 ### 🛠️ Building
+- 🛡️ **SafePaste** — a privacy-first AI browser extension powered by local LLMs
 - 🔊 **NativePHP plugins** for native features on Android & iOS
 - 🧪 **NativePHP Lab** — a browser playground for the ecosystem
 - 🌊 **Tailwind CSS v4 plugins** — fluid scale & contrast checking
@@ -138,12 +139,14 @@ open_to:    consulting & OSS
 <div align="center">
 
 [![tailwindcss-fluid-scale](https://github-readme-stats.vercel.app/api/pin/?username=theunwindfront&repo=tailwindcss-fluid-scale&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=8F8FEF&icon_color=8F8FEF)](https://github.com/theunwindfront/tailwindcss-fluid-scale)
+[![safepaste-ai-extension](https://github-readme-stats.vercel.app/api/pin/?username=theunwindfront&repo=safepaste-ai-extension&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=8F8FEF&icon_color=8F8FEF)](https://github.com/theunwindfront/safepaste-ai-extension)
 [![laravel-blade-variants](https://github-readme-stats.vercel.app/api/pin/?username=theunwindfront&repo=laravel-blade-variants&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=8F8FEF&icon_color=8F8FEF)](https://github.com/theunwindfront/laravel-blade-variants)
 
 </div>
 
 | Project | What it does | Impact |
 |---------|--------------|--------|
+| 🛡️ [**SafePaste**](https://github.com/theunwindfront/safepaste-ai-extension) | AI-powered browser extension that hides names, emails, keys and amounts before you paste into ChatGPT, Claude or Gemini — then restores real values in the reply | Detection runs **100% locally** with Ollama |
 | 🔊 [**NativePHP Audio**](https://nativephp.com/plugins/theunwindfront/nativephp-audio) | Official NativePHP plugin — native audio for PHP apps on Android & iOS | Playback in **2,000+ mobile builds** |
 | 🧪 [**NativePHP Lab**](https://sagarpansuriya.in/nativephp-lab/) | Interactive, browser-based sandbox for exploring NativePHP | Cut onboarding time by **~70%** |
 | 🌊 [**Fluid Scale**](https://github.com/theunwindfront/tailwindcss-fluid-scale) | Tailwind CSS plugin for fluid, media-query-free scaling | Used across multiple projects |
