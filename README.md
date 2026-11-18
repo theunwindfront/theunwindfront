@@ -203,11 +203,11 @@ open_to:    consulting & OSS
 ## ✍️ Recent Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Vite Build Optimisation for Laravel: Smaller Bundles, Faster Pages](https://sagarpansuriya.in/blog/vite-build-optimization-laravel/) *(Nov 2026)*
 - [Livewire Form Objects: Validation Patterns That Scale](https://sagarpansuriya.in/blog/livewire-form-objects-validation-patterns/) *(Nov 2026)*
 - [Making a NativePHP Desktop App Feel Native, Not Like a Website in a Box](https://sagarpansuriya.in/blog/nativephp-desktop-ux-feel-native/) *(Nov 2026)*
 - [MCP Servers for Laravel Developers: Giving AI Agents Real App Context](https://sagarpansuriya.in/blog/mcp-servers-for-laravel-developers/) *(Nov 2026)*
 - [theme.json for Classic Theme and Sage Developers](https://sagarpansuriya.in/blog/theme-json-for-classic-theme-developers/) *(Nov 2026)*
-- [Building a Keyboard-First Command Palette with Alpine.js and Blade](https://sagarpansuriya.in/blog/alpinejs-command-palette/) *(Nov 2026)*
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [All posts on sagarpansuriya.in](https://sagarpansuriya.in/blog/) — every post has an "Explore with AI" summary built in.
