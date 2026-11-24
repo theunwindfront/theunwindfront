@@ -223,7 +223,7 @@ open_to:    consulting & OSS
 
 ### 🎤 Speaker
 🌊 [**Tailwind CSS v4 Plugin: Fluid Scale**](https://sagarpansuriya.in/laravel-meetup-june-2026/) <br><sub>Laravel Meetup · Jun 2026</sub><br><br>
-🎓 [**Tailwind CSS Expert Talk**](https://sagarpansuriya.in/tailwindcss-expert-talk-for-students/) <br><sub>Marwadi University · Oct 2026</sub><br><br>
+🎓 [**Tailwind CSS Expert Talk**](https://sagarpansuriya.in/tailwindcss-expert-talk-for-students/) <br><sub>Marwadi University · Nov 2026</sub><br><br>
 ♿ [**Accessibility in Laravel Frontend**](https://canva.link/30z02j83nh65ans)
 
 </td>
