@@ -203,11 +203,11 @@ open_to:    consulting & OSS
 ## ✍️ Recent Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Alpine.js and Web Components: When to Reach for Custom Elements](https://sagarpansuriya.in/blog/alpinejs-and-web-components/) *(Nov 2026)*
 - [Bedrock in Production: Composer Plugins, Env Config and Zero-Downtime Deploys](https://sagarpansuriya.in/blog/bedrock-production-deploys/) *(Nov 2026)*
 - [Reliable Structured JSON from LLMs in Laravel](https://sagarpansuriya.in/blog/structured-outputs-llm-json-laravel/) *(Nov 2026)*
 - [A 30-Minute Accessibility Audit Any Frontend Developer Can Run](https://sagarpansuriya.in/blog/accessibility-audit-30-minutes/) *(Nov 2026)*
 - [CSS Cascade Layers for Tailwind Users: Why Your Class Doesn't Apply](https://sagarpansuriya.in/blog/css-cascade-layers-tailwind/) *(Nov 2026)*
-- [Vite Build Optimisation for Laravel: Smaller Bundles, Faster Pages](https://sagarpansuriya.in/blog/vite-build-optimization-laravel/) *(Nov 2026)*
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [All posts on sagarpansuriya.in](https://sagarpansuriya.in/blog/) — every post has an "Explore with AI" summary built in.
